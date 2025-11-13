@@ -24,7 +24,7 @@ jobs:
     
     - name: List Files
       run: |
-       echo "Terry is teaching"
+       curl google.com
 
     - name: Install Dependencies
       run: |
